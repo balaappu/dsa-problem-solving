@@ -1,2 +1,2 @@
 # dsa-problem-solving
-Daily practice of Data Structures &amp; Algorithms problems with clean, optimized solutions.
+Daily practice of Data Structures and Algorithms problems with clean, optimized solutions.
